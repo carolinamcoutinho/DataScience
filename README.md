@@ -6,7 +6,7 @@ Esse repositório foi criado para explicar o projeto de ciência de dados do Dat
 - O Dataset Iris disponibiliza informações sobre três tipos diferentes de plantas, baseado nessas informações criei um projeto para analisar esses dados e prever qual tipo de planta temos como resultado.
 
 - O arquivo utilizado está dispinível nesse repositório através do link:
-  
+  https://github.com/carolinamcoutinho/DatasetIris/blob/main/Projeto_Dataset_Iris.ipynb
 # Primeiro modelo
 - Utilizei três algoritmos diferentes para fazer a previsão: Perceptron, KNN e Árvore de Decisão
 - Utilizei a matriz de confusão, precisão e recall para avaliar os modelos
