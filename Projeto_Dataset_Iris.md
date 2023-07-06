@@ -1,5 +1,5 @@
 # Dataset Iris
-Esse repositório foi criado para explicar o projeto de ciência de dados do Dataset Iris do Sklearn.
+Explicando o projeto de ciência de dados do Dataset Iris do Sklearn.
 
 É um projeto simples visando a utilização da biblioteca pandas e suas ferramentas, comparação de diferentes algoritmos de aprendizado de máquinas e análise de erro de classificação.
 # O projeto
